@@ -114,4 +114,6 @@ Prints a triangle pattern using stars (`*`).
 - Pattern generation
 
 ## Connect With Me 🤝 :
-www.linkedin.com/in/harshaasg
+- LinkedIn : [HARSHAA SG](https://www.linkedin.com/in/harshaasg)  
+
+---
