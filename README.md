@@ -115,5 +115,4 @@ Prints a triangle pattern using stars (`*`).
 
 ## Connect With Me 🤝 :
 - LinkedIn : [HARSHAA SG](https://www.linkedin.com/in/harshaasg)  
-
----
+- Gmail : harshaavardhan8@gmail.com
