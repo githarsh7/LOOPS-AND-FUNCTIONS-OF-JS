@@ -82,16 +82,20 @@ function factorial(n) {
 console.log(factorial(5));
 
 // 9) Prime Validator
-function factorial(n) {
-  let result = 1;
-
-  for (let i = 1; i <= n; i++) {
-    result *= i;
+function isPrime(num) {
+  if (num < 2) return false;
+    for (let i = 2; i <= Math.sqrt(num); i++) {
+    if (num % i === 0) {
+      return false; 
+    }
   }
 
-  return result;
+  return true; 
 }
-console.log(factorial(5));
+
+console.log(isPrime(7));  
+console.log(isPrime(10));  
+console.log(isPrime(2));
 
 // 10) Pattern Builder - Star Triangle
 function printPattern(n) {
